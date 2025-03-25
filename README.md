@@ -15,9 +15,11 @@ Convert VCARD 3.0 `.vcf` files into clean `.csv` format. Handles Apple/iCloud-sp
 vcf2csv my_contacts.vcf -o ./csv_output
 ```
 
----
+This Python code is fast. It converted a single VCF file containing over 80K records into CSV format in just a few minutes.
 
+---
 ## 🤖 Built With Help From ChatGPT
 
 This project was created in collaboration with [ChatGPT Python GPT](https://openai.com/chatgpt), a customized AI assistant for advanced Python development.
+
 *Special thanks to GPT for helping transform a messy vCard export into a clean, production-grade command-line tool.*
