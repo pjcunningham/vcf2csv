@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) 2025 jrkoop
+Copyright (c) 2025 J. Rodger Koopman, Agilitatum LLC
+
+🤖 Built With Help From ChatGPT
+This project was created in collaboration with ChatGPT Python GPT (https://openai.com/chatgpt), a customized AI assistant for advanced Python development.
+Special thanks to GPT for helping transform a messy vCard export into a clean, production-grade command-line tool.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 [full text omitted for brevity]
