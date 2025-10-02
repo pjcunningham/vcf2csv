@@ -24,7 +24,9 @@ This project was created in collaboration with [ChatGPT Python GPT](https://open
 
 *Special thanks to GPT for helping transform a messy vCard export into a clean, production-grade command-line tool.*
 
-### Building a Standalone Executable
+---
+
+## Building a Standalone Executable
 
 You can build a standalone executable using the included `build.py` script, which uses Nuitka to compile the Python code:
 
